@@ -270,8 +270,8 @@ footer {
 
   section {
     padding: 0 2rem;
-    font-size: 1.2rem;
-    margin-top: 2rem;
+    font-size: 1.25rem;
+    margin-top: 0;
   }
 
   .hero {
@@ -301,6 +301,14 @@ footer {
 
   .contact {
     margin-top: 18rem;
-    height: 70vh;
+    height: 60vh;
+  }
+
+  .contact .headtext {
+    font-size: 1.3rem;
+  }
+
+  footer {
+    margin-top: 8rem;
   }
 }
