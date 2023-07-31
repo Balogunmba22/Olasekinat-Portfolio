@@ -276,6 +276,7 @@ footer {
 
   .hero {
     font-size: 4rem;
+    height: 90vh;
   }
 
   .about .grid-container {
@@ -287,7 +288,7 @@ footer {
   }
 
   .projects {
-    margin-top: 16rem;
+    margin-top: 18rem;
   }
 
   .project-wrapper {
@@ -306,9 +307,5 @@ footer {
 
   .contact .headtext {
     font-size: 1.3rem;
-  }
-
-  footer {
-    margin-top: 8rem;
   }
 }
